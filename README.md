@@ -1,7 +1,8 @@
 # Registro_Form
 
 🗂 Proyecto: Registro de Clientes con Formularios VBA en Excel
-Objetivo: Diseñar un sistema completo de registro de clientes que permita agregar, editar, eliminar, buscar y validar datos utilizando formularios personalizados y VBA en Excel.
+
+- Objetivo: Diseñar un sistema completo de registro de clientes que permita agregar, editar, eliminar, buscar y validar datos utilizando formularios personalizados y VBA en Excel.
 
 Este proyecto es parte del curso de : https://eltiotech.com/curso-completo-vba-macros-excel/
 
