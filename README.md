@@ -6,8 +6,6 @@
 
 Este proyecto es parte del curso de : https://eltiotech.com/curso-completo-vba-macros-excel/
 
-![image.png](attachment:c3f2a905-c3cc-4c7b-9669-1002ba667e3e:image.png)
-
 ✅ Paso a Paso:
 1. Diseño del Formulario Principal
 Se crea el formulario UserForm con los campos: Nombre, Apellido, Fecha de nacimiento, Edad, Email, Teléfono, País, Provincia/Estado y Ciudad.
@@ -15,8 +13,6 @@ Se crea el formulario UserForm con los campos: Nombre, Apellido, Fecha de nacimi
 Se añaden controles: TextBox, ComboBox, CommandButton, Calendar, etc.
 
 Botones: Registrar, Modificar, Limpiar.
-
-![image.png](attachment:27012ab1-f2d0-4ec3-9f43-34a77589e28e:image.png)
 
 2. Validación de Datos
 Se incorporan rutinas de validación:
@@ -40,11 +36,8 @@ Se asigna un código único tipo CLI_0001.
 5. Eliminar Registros
 Se crea un formulario de búsqueda con ListBox.
 
-![image.png](attachment:05d10dfc-b57b-4471-8c56-9a7a60cf2fec:image.png)
-
 Al seleccionar un registro y confirmar con una contraseña (TextBox1 = "12345") en este formulario, el sistema elimina toda la fila correspondiente.
 
-![image.png](attachment:dcee0cc0-afc5-43cc-9205-cb50aecd51ec:image.png)
 
 6. Generar Código Automático
 Cada nuevo registro obtiene un código consecutivo.
@@ -70,7 +63,7 @@ Uso de módulos estándar y formularios bien estructurados.
 
 ### Resultado Final
 
-El resultado es un **formulario completo y funcional en Excel**, que permite registrar, modificar, eliminar y buscar clientes de manera organizada. Se incluye validación automática de datos, control de errores, cálculo de edad, y una interfaz amigable, ideal para gestionar bases de datos pequeñas y medianas dentro de un entorno de oficina.
+El resultado es un formulario completo y funcional en Excel, que permite registrar, modificar, eliminar y buscar clientes de manera organizada. Se incluye validación automática de datos, control de errores, cálculo de edad, y una interfaz amigable, ideal para gestionar bases de datos pequeñas y medianas dentro de un entorno de oficina.
 
 ### Próximos pasos
 
